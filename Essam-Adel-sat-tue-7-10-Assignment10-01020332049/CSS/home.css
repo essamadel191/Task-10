@@ -1,0 +1,28 @@
+body {
+    background-color: #24353f;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+.main-nav{
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.user-box{
+  background-color: #24353f;
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+h1{
+  color: #17a2b8;
+}
+button {
+  border-color: #ffc107 !important;
+  color: rgb(172, 170, 170) !important;
+}
+button:hover{
+  background-color: #ffc107 !important;
+  color: white !important;
+}
+.main-body{
+  height: 80vh;
+}
